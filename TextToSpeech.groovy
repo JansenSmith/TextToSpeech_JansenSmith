@@ -22,7 +22,7 @@ BowlerKernel.speak(
 );
 ////
 BowlerKernel.speak(
-		"The robot voice of starscream",
+		"The robot voice of brittish starscream",
 		100, //rate 
 		90, //slur
 		200,  //voice
