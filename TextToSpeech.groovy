@@ -1,11 +1,11 @@
-BowlerKernel.speak(
-		"This is the default voice");
+
+BowlerKernel.speak("This is the default voice");
 BowlerKernel.speak("Voice one", 100, 0, 300, 1.0, 1.0);
 BowlerKernel.speak("Voice two", 100, 0, 200, 1.0, 1.0);
 BowlerKernel.speak("Voice three", 100, 0, 100, 1.0, 1.0);
 BowlerKernel.speak("Voice four", 100, 0, 50, 1.0, 1.0);
 BowlerKernel.speak(
-	"we are the borg; resistance is futile",
+	"we are the borg; rsistnce is feutle",
 	100, //rate 
 	0, //slur
 	300,  //voice
